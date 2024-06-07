@@ -1,4 +1,4 @@
-# uaemetro-ticketer
+# uaemetro-ticketer :metro:
 Highschool Project that allows customers to purchase UAE metro tickets
 
 Use PDF File to understand Nuances of Project.
